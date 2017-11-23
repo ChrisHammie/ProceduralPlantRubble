@@ -4,8 +4,6 @@ cbuffer cbPerObject
 	float4x4 WVP;
 };
 
-
-
 struct VOut
 {
 	float4 position : SV_POSITION;
