@@ -1,0 +1,5 @@
+﻿  ProceduralPlantRubble.cpp
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\chris\desktop\proceduralplantrubble\proceduralplantrubble\proceduralplantrubble.cpp(304): warning C4244: '=': conversion from 'float' to '__int64', possible loss of data
+c:\users\chris\desktop\proceduralplantrubble\proceduralplantrubble\proceduralplantrubble.cpp(675): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ProceduralPlantRubble.vcxproj -> C:\Users\chris\Desktop\ProceduralPlantRubble\Debug\ProceduralPlantRubble.exe
