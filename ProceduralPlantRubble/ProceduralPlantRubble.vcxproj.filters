@@ -35,6 +35,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="shaders.shader" />
+    <None Include="PS.shader" />
+    <None Include="VS.shader" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\aperature.png">

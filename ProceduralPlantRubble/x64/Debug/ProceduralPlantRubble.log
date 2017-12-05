@@ -1,1 +1,7 @@
-﻿  ProceduralPlantRubble.vcxproj -> D:\ProceduralPlantRubble\x64\Debug\ProceduralPlantRubble.exe
+﻿  ProceduralPlantRubble.cpp
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\chris\desktop\proceduralplantrubble\proceduralplantrubble\proceduralplantrubble.cpp(255): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+c:\users\chris\desktop\proceduralplantrubble\proceduralplantrubble\proceduralplantrubble.cpp(307): warning C4244: '=': conversion from 'float' to '__int64', possible loss of data
+c:\users\chris\desktop\proceduralplantrubble\proceduralplantrubble\proceduralplantrubble.cpp(705): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\chris\desktop\proceduralplantrubble\proceduralplantrubble\proceduralplantrubble.cpp(437): warning C4172: returning address of local variable or temporary: colour
+  ProceduralPlantRubble.vcxproj -> C:\Users\chris\Desktop\ProceduralPlantRubble\x64\Debug\ProceduralPlantRubble.exe

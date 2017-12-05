@@ -164,7 +164,9 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="PS.shader" />
     <None Include="shaders.shader" />
+    <None Include="VS.shader" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\aperature.png" />
